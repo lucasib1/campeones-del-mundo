@@ -10,3 +10,15 @@ color: white;
 
 .centrar{ text-align: center;
 }
+@media (min-width: 760px) {
+    .iframe-container {
+      width: 591px; /* Establecer un ancho máximo para pantallas grandes */
+        height: 360px;
+      margin: auto; /* Centrar el contenedor en pantallas grandes */
+    }
+
+    iframe{
+        width: 100%;
+        height: 100%;
+    }
+}

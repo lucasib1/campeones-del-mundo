@@ -1,0 +1,11 @@
+{
+  "name": "proyecto-ibanez",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000E\u0000G\u0000U\u0000N\u0000D\u0000A\u0000-\u0000P\u0000R\u0000E\u0000-\u0000E\u0000N\u0000T\u0000R\u0000E\u0000G\u0000A\u0000-\u0000I\u0000B\u0000A\u0000N\u0000E\u0000Z\u0000\r\u0000 \u0000# SEGUNDA-PRE-ENTREGA-IBANEZ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
